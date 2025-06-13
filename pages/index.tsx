@@ -1,6 +1,6 @@
 
 import Head from 'next/head';
-import VietnameseToneTranslator from '@/components/VietnameseToneTranslator';
+import VietnameseToneTranslator from '../components/VietnameseToneTranslator';
 
 export default function Home() {
   return (
